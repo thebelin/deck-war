@@ -3,7 +3,7 @@
  * 
  * For use as front end or node.js game controller
  *
- * @author Belin Fieldson <belin.fieldson@tritondigital.com>
+ * @author Belin Fieldson @thebelin
  */
 var deck = function(options) {
   // Let's be sure these are the droids we're looking for
